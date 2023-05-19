@@ -1,7 +1,7 @@
 # RythmRider-Musicplatform.github.io
 
 # :headphones: :musical_note: RythmRider(spotify clone)
-## It is a Simple music platform similarly like Spotify Clone.Designed using Html,CSS,Javascript,where you can listen your favourite music.
+## It is a Simple music platform similarly like Spotify Clone.Designed using Html,CSS,Javascript,where you can listen your favourite music.you can change the song,play/pause,next overall features have been applied,that will be present in an music platform.
 
 # Link
 ## https://mohammedtabrez237.github.io/RythmRider-Musicplatform.github.io/
